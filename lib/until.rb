@@ -3,9 +3,9 @@ def using_until
   #your code here
     loop do
       puts 'Wingardium Leviosa'
-      counter + 1
+      levitation_force + 1
 
-      if counter > 10
+      if levitation_force > 10
         break
       end
 end
